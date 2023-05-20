@@ -1,0 +1,149 @@
+
+
+
+@media(max-width: 991px){
+
+
+	                                                     /*Header area*/
+	.sp-header{
+		
+	}
+	.sp-menu{
+		display: none;
+	}
+
+	.sp-menu-icon i{
+		display: block;
+		text-align: right;
+	}
+
+	.sp-mobile-menu{
+		border-top: 1px solid #ffe500;
+		margin-top: 25px;
+		text-align: right;
+	}
+
+	.sp-mobile-menu ul li a{
+		text-transform: uppercase;
+	    font-family: 'Poppins', sans-serif;
+	    color: #ffe500;
+	    display: block;
+	    padding: 7px 0;
+	}
+
+
+                                                         /*Body-1*/
+
+
+                                                         
+	.body1-title{
+		margin-top: 100px;
+	}
+
+	                                                    /*Body-3*/
+
+
+	.card{
+		margin: 30px auto 0;
+	}
+
+	.range{
+		margin: 30px auto 0;
+	}
+
+	                                                 /*Body-4*/
+
+	.body4-btn button{
+		margin: 30px auto 0;
+	}  
+
+
+
+	                                               /*Body-5*/
+
+
+	 .logo3 img{
+	 	width: 20%;
+	 }   
+
+	 .logo3{
+	 	margin: 50px 0;
+	 }
+
+	 .portfolio-img img{
+	   margin: 0 auto 20px;
+     }                                           
+      
+                                                   /*Body-7*/
+
+
+    .member img{
+    	width: 100%;
+    }  
+
+    .member{
+    	margin: 30px 0;
+    }
+
+    .speech1{
+    	margin-top: 20px;
+    }
+
+   .speech4{
+   	margin-top: 70px;
+   }
+
+                                                          /*FOOTER*/
+
+
+     footer{
+     	margin-top: 100px;
+     }                                                     
+
+     .footer2{
+     	margin-top: 40px;
+     }
+
+     .footer4{
+     	margin-top: 40px;
+     }
+
+}
+
+
+@media(max-width: 767px){
+
+	.speech4{
+		margin-top: 200px;
+	}
+
+	footer{
+		margin-top: 300px;
+	}
+
+}
+
+@media(max-width: 495px){
+
+	footer{
+		margin-top: 500px;
+	}
+}
+
+@media(max-width: 396px){
+	.speech4{
+		margin-top: 300px;
+	}
+
+	.speech1{
+    	margin-top:50px;
+    }
+
+    footer{
+    	margin-top: 700px;
+    }
+
+    .footer4 button{
+    	padding: 10px 50px;
+    }
+}
